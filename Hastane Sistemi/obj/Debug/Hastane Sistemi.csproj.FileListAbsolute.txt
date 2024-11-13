@@ -1,0 +1,10 @@
+C:\Users\nisan\Desktop\PROJELER\VisualStudio\Hastane Sistemi\Hastane Sistemi\bin\Debug\Hastane Sistemi.exe.config
+C:\Users\nisan\Desktop\PROJELER\VisualStudio\Hastane Sistemi\Hastane Sistemi\bin\Debug\Hastane Sistemi.exe
+C:\Users\nisan\Desktop\PROJELER\VisualStudio\Hastane Sistemi\Hastane Sistemi\bin\Debug\Hastane Sistemi.pdb
+C:\Users\nisan\Desktop\PROJELER\VisualStudio\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane Sistemi.csproj.AssemblyReference.cache
+C:\Users\nisan\Desktop\PROJELER\VisualStudio\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.Form1.resources
+C:\Users\nisan\Desktop\PROJELER\VisualStudio\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane_Sistemi.Properties.Resources.resources
+C:\Users\nisan\Desktop\PROJELER\VisualStudio\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane Sistemi.csproj.GenerateResource.cache
+C:\Users\nisan\Desktop\PROJELER\VisualStudio\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\nisan\Desktop\PROJELER\VisualStudio\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane Sistemi.exe
+C:\Users\nisan\Desktop\PROJELER\VisualStudio\Hastane Sistemi\Hastane Sistemi\obj\Debug\Hastane Sistemi.pdb

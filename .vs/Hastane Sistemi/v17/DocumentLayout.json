@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nisan\\Desktop\\PROJELER\\VisualStudio\\Hastane Sistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DF9A11-99F7-4D6E-898C-ED098F6B0958}|Hastane Sistemi\\Hastane Sistemi.csproj|C:\\Users\\nisan\\Desktop\\PROJELER\\VisualStudio\\Hastane Sistemi\\hastane sistemi\\teshis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DF9A11-99F7-4D6E-898C-ED098F6B0958}|Hastane Sistemi\\Hastane Sistemi.csproj|solutionrelative:hastane sistemi\\teshis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DF9A11-99F7-4D6E-898C-ED098F6B0958}|Hastane Sistemi\\Hastane Sistemi.csproj|C:\\Users\\nisan\\Desktop\\PROJELER\\VisualStudio\\Hastane Sistemi\\hastane sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DF9A11-99F7-4D6E-898C-ED098F6B0958}|Hastane Sistemi\\Hastane Sistemi.csproj|solutionrelative:hastane sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DF9A11-99F7-4D6E-898C-ED098F6B0958}|Hastane Sistemi\\Hastane Sistemi.csproj|c:\\users\\nisan\\desktop\\projeler\\visualstudio\\hastane sistemi\\hastane sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0DF9A11-99F7-4D6E-898C-ED098F6B0958}|Hastane Sistemi\\Hastane Sistemi.csproj|solutionrelative:hastane sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DF9A11-99F7-4D6E-898C-ED098F6B0958}|Hastane Sistemi\\Hastane Sistemi.csproj|C:\\Users\\nisan\\Desktop\\PROJELER\\VisualStudio\\Hastane Sistemi\\hastane sistemi\\hastakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DF9A11-99F7-4D6E-898C-ED098F6B0958}|Hastane Sistemi\\Hastane Sistemi.csproj|solutionrelative:hastane sistemi\\hastakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DF9A11-99F7-4D6E-898C-ED098F6B0958}|Hastane Sistemi\\Hastane Sistemi.csproj|C:\\Users\\nisan\\Desktop\\PROJELER\\VisualStudio\\Hastane Sistemi\\hastane sistemi\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DF9A11-99F7-4D6E-898C-ED098F6B0958}|Hastane Sistemi\\Hastane Sistemi.csproj|solutionrelative:hastane sistemi\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DF9A11-99F7-4D6E-898C-ED098F6B0958}|Hastane Sistemi\\Hastane Sistemi.csproj|C:\\Users\\nisan\\Desktop\\PROJELER\\VisualStudio\\Hastane Sistemi\\hastane sistemi\\tedavi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DF9A11-99F7-4D6E-898C-ED098F6B0958}|Hastane Sistemi\\Hastane Sistemi.csproj|solutionrelative:hastane sistemi\\tedavi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DF9A11-99F7-4D6E-898C-ED098F6B0958}|Hastane Sistemi\\Hastane Sistemi.csproj|C:\\Users\\nisan\\Desktop\\PROJELER\\VisualStudio\\Hastane Sistemi\\hastane sistemi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DF9A11-99F7-4D6E-898C-ED098F6B0958}|Hastane Sistemi\\Hastane Sistemi.csproj|solutionrelative:hastane sistemi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DF9A11-99F7-4D6E-898C-ED098F6B0958}|Hastane Sistemi\\Hastane Sistemi.csproj|C:\\Users\\nisan\\Desktop\\PROJELER\\VisualStudio\\Hastane Sistemi\\hastane sistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DF9A11-99F7-4D6E-898C-ED098F6B0958}|Hastane Sistemi\\Hastane Sistemi.csproj|solutionrelative:hastane sistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nisan\\Desktop\\PROJELER\\VisualStudio\\Hastane Sistemi\\Hastane Sistemi\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Hastane Sistemi\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\nisan\\Desktop\\PROJELER\\VisualStudio\\Hastane Sistemi\\Hastane Sistemi\\Form1.Designer.cs",
+              "RelativeToolTip": "Hastane Sistemi\\Form1.Designer.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAASwEEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:21:12.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nisan\\Desktop\\PROJELER\\VisualStudio\\Hastane Sistemi\\Hastane Sistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "Hastane Sistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\nisan\\Desktop\\PROJELER\\VisualStudio\\Hastane Sistemi\\Hastane Sistemi\\Form1.cs",
+              "RelativeToolTip": "Hastane Sistemi\\Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:18:31.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\nisan\\Desktop\\PROJELER\\VisualStudio\\Hastane Sistemi\\Hastane Sistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "Hastane Sistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\nisan\\Desktop\\PROJELER\\VisualStudio\\Hastane Sistemi\\Hastane Sistemi\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Hastane Sistemi\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:05:21.962Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HastaKayit.cs",
+              "DocumentMoniker": "C:\\Users\\nisan\\Desktop\\PROJELER\\VisualStudio\\Hastane Sistemi\\Hastane Sistemi\\HastaKayit.cs",
+              "RelativeDocumentMoniker": "Hastane Sistemi\\HastaKayit.cs",
+              "ToolTip": "C:\\Users\\nisan\\Desktop\\PROJELER\\VisualStudio\\Hastane Sistemi\\Hastane Sistemi\\HastaKayit.cs",
+              "RelativeToolTip": "Hastane Sistemi\\HastaKayit.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:14:54.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tedavi.cs",
+              "DocumentMoniker": "C:\\Users\\nisan\\Desktop\\PROJELER\\VisualStudio\\Hastane Sistemi\\Hastane Sistemi\\Tedavi.cs",
+              "RelativeDocumentMoniker": "Hastane Sistemi\\Tedavi.cs",
+              "ToolTip": "C:\\Users\\nisan\\Desktop\\PROJELER\\VisualStudio\\Hastane Sistemi\\Hastane Sistemi\\Tedavi.cs",
+              "RelativeToolTip": "Hastane Sistemi\\Tedavi.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:13:08.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Teshis.cs",
+              "DocumentMoniker": "C:\\Users\\nisan\\Desktop\\PROJELER\\VisualStudio\\Hastane Sistemi\\Hastane Sistemi\\Teshis.cs",
+              "RelativeDocumentMoniker": "Hastane Sistemi\\Teshis.cs",
+              "ToolTip": "C:\\Users\\nisan\\Desktop\\PROJELER\\VisualStudio\\Hastane Sistemi\\Hastane Sistemi\\Teshis.cs",
+              "RelativeToolTip": "Hastane Sistemi\\Teshis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:11:31.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hasta.cs",
+              "DocumentMoniker": "C:\\Users\\nisan\\Desktop\\PROJELER\\VisualStudio\\Hastane Sistemi\\Hastane Sistemi\\Hasta.cs",
+              "RelativeDocumentMoniker": "Hastane Sistemi\\Hasta.cs",
+              "ToolTip": "C:\\Users\\nisan\\Desktop\\PROJELER\\VisualStudio\\Hastane Sistemi\\Hastane Sistemi\\Hasta.cs",
+              "RelativeToolTip": "Hastane Sistemi\\Hasta.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAnwBcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:07:18.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nisan\\Desktop\\PROJELER\\VisualStudio\\Hastane Sistemi\\Hastane Sistemi\\Program.cs",
+              "RelativeDocumentMoniker": "Hastane Sistemi\\Program.cs",
+              "ToolTip": "C:\\Users\\nisan\\Desktop\\PROJELER\\VisualStudio\\Hastane Sistemi\\Hastane Sistemi\\Program.cs",
+              "RelativeToolTip": "Hastane Sistemi\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:05:25.913Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
